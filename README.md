@@ -1,40 +1,38 @@
-
-
-Formulário para prática e estudo da linguagem JavaScript
+Form to practice and study the JavaScript language
 
   ***
 
-## __Validacao__
+## __Validation__
 
-Validação utilizando algumas classes do bootstrap, como o "is-invalid" e o "is-valid". Validação via front-end através do JavaScript.
+Validation using some bootstrap classes, such as "is-invalid" and "is-valid". Validation via front-end through JavaScript.
 
-### __Nome__
+### __Name__
 
-Para nome/sobrenome foi utilizado somente uma validação de tamanho minimo.
+For name/surname, only a minimum length validation was used.
 
 ### __CPF__
 
-Para o CPF foi utilizado o calculo padrão para validação de CPF utilizada pela Receita Federal.
+For the CPF, the standard calculation for CPF validation used by the Federal Revenue was used.
 
-### __Telefone__
+### __Telephone__
 
-Para Telefone e Celular foi utilizado tamanhos minimos para DDD e numeros com 8 digitos para telefones e 9 digitos para celulares, totalizando 10 numeros para telefone e 11 para o celular.
+For Telephone and Cellular, minimum sizes were used for area code and numbers with 8 digits for telephones and 9 digits for cell phones, totaling 10 numbers for telephone and 11 for cell phones.
 
 ### __Email__
 
-  Para o email foi utilizado a presença do "@" e a presença de um ponto após o "@". 
+  For the email, the presence of the "@" and the presence of a period after the "@" was used.
 
-### __Senha__
+### __Password__
 
-Senha não muito restritiva, sendo necessário maior que 8 digitos.
-Confirmação de senha utilizada  em comparação direta com a senha digitada no campo .
+Password not very restrictive, requiring more than 8 digits.
+Password confirmation used in direct comparison with the password entered in the field.
 
 
 ***
 
-## __Responsividade__
+## __Responsiveness__
 
-Responsividade aplicada ao furmulário utilizando o Bootstrap e suas classes para controle de formulario. 
+Responsiveness applied to the form using Bootstrap and its classes for form control.
 
 
 <img src="./assets/example.png" alt="Ilustração ">
